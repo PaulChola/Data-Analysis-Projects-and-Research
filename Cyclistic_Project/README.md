@@ -60,7 +60,7 @@ This analysis answers:
 
 ### 🚲 Cyclistic Analysis Dashboard
 
-![Cyclistic Analysis](outputs/cyclistic_analysis.png)
+![Cyclistic Analysis](https://github.com/PaulChola/Data-Analysis-Projects-and-Research/blob/main/Cyclistic_Project/outputs/visualizations/cyclistic_analysis.png)
 
 This dashboard includes:
 
